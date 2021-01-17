@@ -29,3 +29,5 @@ Hey, I'm [Bryan Gass](https://beegassy.github.io/) and im a senior finishing my 
 Hey Look A Train
 
 ![](https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif)
+
+![Metrics](https://metrics.lecoq.io/BeeGassy?template=classic&base.activity=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York&config.animated=true)
