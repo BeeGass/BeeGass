@@ -1,5 +1,7 @@
 [![BeeGassy's github stats](https://github-readme-stats.vercel.app/api?username=beegassy)](https://github.com/beegassy/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/BeeGassy?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York&config.animated=true)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=BeeGassy.BeeGassy)
 
 Hey, I'm [Bryan Gass](https://beegassy.github.io/) and im a senior finishing my undergrad at Worcester Polytechnic Institute.
@@ -25,8 +27,6 @@ Hey, I'm [Bryan Gass](https://beegassy.github.io/) and im a senior finishing my 
 - Matlab (Had Exposure)
 - R (Had Exposure)
 - Racket (Had Exposure)
-
-![Metrics](https://metrics.lecoq.io/BeeGassy?template=classic&base.activity=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York&config.animated=true)
 
 Hey Look A Train
 
