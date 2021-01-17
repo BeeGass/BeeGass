@@ -1,6 +1,6 @@
-![](https://visitor-badge.glitch.me/badge?page_id=BeeGassy.BeeGassy)
-
 [![BeeGassy's github stats](https://github-readme-stats.vercel.app/api?username=beegassy)](https://github.com/beegassy/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=BeeGassy.BeeGassy)
 
 Hey, I'm [Bryan Gass](https://beegassy.github.io/) and im a senior finishing my undergrad at Worcester Polytechnic Institute.
 
