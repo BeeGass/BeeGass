@@ -9,7 +9,7 @@ Hey, I'm [Bryan Gass](https://beegassy.github.io/) and im a senior finishing my 
 - 🔭 I’m currently working on: [Self_Taught_Machine_Learning](https://github.com/BeeGassy/Self_Taught_Machine_Learning)
 - 🌱 I’m currently learning: This year im exploring the depths of Artificial Intelligence, Machine Learning And Deep Learning
 - 👯 I’m looking to collaborate on: Anything, however I would prefer if it has grounds within machine learning
-- 🤔 I’m looking for help with: Music, I have just begun to learn to play the piano. Also machine learning. 
+- 🤔 I’m looking for help with: Music, I have just begun to learn to play the piano. Also I would love explanations to some machine learning concepts. 
 - 💬 Ask me about: ramen noodles, chalk, Cafe Racers, and Soccer
 - 📫 How to reach me: Bagass@wpi.edu
 - 😄 Pronouns: He/Him/His
