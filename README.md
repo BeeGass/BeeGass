@@ -12,7 +12,7 @@ Hey, I'm [Bryan Gass](https://beegassy.github.io/) and im a senior finishing my 
 - 🤔 I’m looking for help with: Music, I have just begun to learn to play the piano. Also I would love explanations to some machine learning concepts. 
 - 💬 Ask me about: ramen noodles, chalk, cafe racers, and soccer
 - 📫 How to reach me: Bagass@wpi.edu
-- [Resume](https://docs.google.com/document/d/1Jki9zG7wOyuVgG3XMfhBIXPvryDC1VXjqy1Ixrqmx5Q/edit?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1NlWclT98VzlJO_p7fYnMmZlokNLepGak/view?usp=sharing)
 
 **Languages and Tools:** 
 
