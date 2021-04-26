@@ -1,6 +1,6 @@
 [![BeeGassy's github stats](https://github-readme-stats.vercel.app/api?username=beegass)](https://github.com/beegass/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/BeeGassy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York&config.animated=true)
+![Metrics](https://metrics.lecoq.io/BeeGass?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York&config.animated=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BeeGass.BeeGass)
 
