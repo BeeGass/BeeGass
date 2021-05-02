@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BeeGass.BeeGass)
 
-Hey, I'm [Bryan Gass](beegass.dev) and im a senior finishing my undergrad at Worcester Polytechnic Institute.
+Hey, I'm [Bryan Gass](https://beegass.dev/) and im a senior finishing my undergrad at Worcester Polytechnic Institute.
 
 - 🔭 I’m currently working on: [CS-541-Deep_Learning](https://github.com/BeeGassy/CS-541-Deep_Learning) and [Deep-Q-Learning](https://github.com/BeeGassy/Deep-Q-Learning)
 - 🌱 I’m currently learning: This year im exploring the depths of Artificial Intelligence, Machine Learning And Deep Learning
