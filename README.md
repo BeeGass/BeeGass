@@ -10,7 +10,7 @@ Hey, I'm [Bryan Gass](https://beegass.dev/) and im a senior finishing my undergr
 - 🤔 I’m looking for help with: Music, math, machine learning, cooking, how to filet a fish, I dont know, im just trying to learn things from smart people.  
 - 💬 Ask me about: ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol. Im a master of none and layman in many. I cant promise wisdom but im ok at dinner parties. 
 - 📫 How to reach me: Bagass@wpi.edu
-- [Resume](https://drive.google.com/file/d/1KSW5kHq5gp6uTOkLbjdbzsbCHBxJ9EvG/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/15WIhdA5QFzm-hRDeS2pKdgMqhha1pc0a/view?usp=sharing)
 
 **Languages and Tools:** 
 
