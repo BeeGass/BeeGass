@@ -1,5 +1,3 @@
-[![BeeGassy's github stats](https://github-readme-stats.vercel.app/api?username=beegass)](https://github.com/beegass/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BeeGass&theme=dark)](https://git.io/streak-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BeeGass.BeeGass)
