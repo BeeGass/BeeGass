@@ -38,4 +38,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beegass&show_icons=true&locale=en&layout=compact" alt="beegass" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BeeGass&theme=dark" alt="beegass" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BeeGass&theme=dark&hide_border=true" alt="beegass" /></p>
