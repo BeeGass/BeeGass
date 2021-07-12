@@ -39,6 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beegass&show_icons=true&locale=en" alt="beegass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beegass&" alt="beegass" /></p>
-
-Hey look a train
-![](https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif)
