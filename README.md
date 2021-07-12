@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CS-541-Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning)
 
-- 🌱 I’m currently learning **depths of Artificial Intelligence, Machine Learning And Deep Learning. My next steps are to continue my fumbling in the world of higher level mathematics.**
+- 🌱 I’m currently learning **the depths of Artificial Intelligence, Machine Learning And Deep Learning. My next steps are to continue my fumbling in the world of higher level mathematics.**
 
 - 👯 I’m looking to collaborate on [Deep-Q-Learning](https://github.com/BeeGass/Deep-Q-Learning)
 
