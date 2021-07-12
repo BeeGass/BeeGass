@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">I'm a grad student at Worcester Polytechnic Institute.</h3>
+<h1 align="center">Hi 👋, I'm Bryan Gass</h1>
+<h3 align="center">Hey, I'm Bryan Gass and im a senior finishing my undergrad at Worcester Polytechnic Institute.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beegass&label=Profile%20views&color=0e75b6&style=flat" alt="beegass" /> </p>
 
