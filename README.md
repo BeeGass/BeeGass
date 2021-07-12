@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bagass@wpi.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15WIhdA5QFzm-hRDeS2pKdgMqhha1pc0a/view](https://drive.google.com/file/d/15WIhdA5QFzm-hRDeS2pKdgMqhha1pc0a/view)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/15WIhdA5QFzm-hRDeS2pKdgMqhha1pc0a/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,8 +38,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beegass&show_icons=true&locale=en&layout=compact" alt="beegass" /></p>
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=beegass&show_icons=true&locale=en" alt="beegass" /></p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=beegass&" alt="beegass" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BeeGass&theme=dark" alt="beegass" /></p>
