@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [beegass.dev](beegass.dev)
 
-- 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol. Im a master of none and layman in many.**
+- 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol. However, know that i'm a master of none and layman in many.**
 
 - 📫 How to reach me **bagass@wpi.edu**
 
