@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bagass@wpi.edu**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/15WIhdA5QFzm-hRDeS2pKdgMqhha1pc0a/view)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1oRVWuL40ZSLum5yx8wx2iViS0gZkUb9K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
