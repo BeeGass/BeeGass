@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beegass&label=Profile%20views&color=0e75b6&style=flat" alt="beegass" /> </p>
 
-- 🔭 I’m currently working on [CS-541-Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning)
+- 🔭 I’m currently working on [CS-541-Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning) and [Not-Your-ML-Library](https://github.com/BeeGass/Not-Your-ML-Library)
 
 - 🌱 I’m currently learning **the depths of Artificial Intelligence, Machine Learning And Deep Learning. My next steps are to continue my fumbling in the world of higher level mathematics.**
 
 - 👯 I’m looking to collaborate on [Deep-Q-Learning](https://github.com/BeeGass/Deep-Q-Learning)
 
-- 🤝 I’m looking for help with [CS-541-Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning)
+- 🤝 I’m looking for help with [CS-541-Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning) or [Not-Your-ML-Library](https://github.com/BeeGass/Not-Your-ML-Library)
 
 - 📝 I regularly write articles on [beegass.dev](beegass.dev)
 
