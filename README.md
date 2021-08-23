@@ -33,7 +33,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/beegass"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/beegass" /></a></p><br><br>
-<h5 align="left">Im still in college where my full time job is being a student. If you feel the need, fueling my caffeine needs would be very appreciated.</h5>
+<h5 align="left">I really do not need any kind of donation. Frankly, there are college kids out there that need money much more than me who you should give money to, but if you do feel so inclined to buy me a coffee or a pastry... Thank you in advance.</h5>
 
 <h3 align="left">Stats:</h3>
 
