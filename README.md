@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [CS-541-Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning) or [Not-Your-ML-Library](https://github.com/BeeGass/Not-Your-ML-Library)
 
-- 📝 I regularly write articles on [beegass.dev](beegass.dev)
+- 📝 I regularly write articles on [my website](https://beegass.dev/)
 
 - 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol. However, know that i'm a master of none and layman in many.**
 
