@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the depths of Artificial Intelligence, Machine Learning And Deep Learning. My next steps are to continue my fumbling in the world of higher level mathematics.**
 
-- 👯 I’m looking to collaborate on [Deep-Q-Learning](https://github.com/BeeGass/Deep-Q-Learning)
+- 👯 I’m looking to collaborate on **research involving generative models, reinforcement learning or the combination of the two**
 
 - 🤝 I’m looking for help with [CS-541-Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning) or [Not-Your-ML-Library](https://github.com/BeeGass/Not-Your-ML-Library)
 
