@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **research involving generative models, reinforcement learning or the combination of the two**
 
 - 🤝 I’m looking for help with [Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning), [VAEs](https://github.com/BeeGass/Variational-Autoencoder), [beegrad](https://github.com/BeeGass/bee-grad) or [Not-Your-ML-Library](https://github.com/BeeGass/Not-Your-ML-Library)
-- 
+
 - 📝 I regularly write articles on [my website](https://beegass.dev/)
 
 - 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol. However, know that i'm a master of none and layman in many.**
