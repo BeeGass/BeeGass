@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beegass&label=Profile%20views&color=0e75b6&style=flat" alt="beegass" /> </p>
 
-- 🔭 I’m currently working on [Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning), [VAEs](https://github.com/BeeGass/Readable-VAEs), [ssljax](https://github.com/ryanccarelli/ssljax), [beegrad](https://github.com/BeeGass/bee-grad) and [Not-Your-ML-Library](https://github.com/BeeGass/Not-Your-ML-Library)
+- 🔭 I’m currently working on [Agents](https://github.com/BeeGass/Agents), [GANs](https://github.com/BeeGass/Readable-GANs), [VAEs](https://github.com/BeeGass/Readable-VAEs), [Deep-Learning](https://github.com/BeeGass/CS-541-Deep-Learning), [beegrad](https://github.com/BeeGass/bee-grad), and [Not-Your-ML-Library](https://github.com/BeeGass/Not-Your-ML-Library)
 
 - 🌱 I’m currently learning **the depths of Artificial Intelligence, Machine Learning And Deep Learning. My next steps are to continue my fumbling in the world of higher level mathematics.**
 
