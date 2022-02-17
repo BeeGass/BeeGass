@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beegass&label=Profile%20views&color=0e75b6&style=flat" alt="beegass" /> </p>
 
-- 🔭 I’m currently working on [PathML](https://github.com/Dana-Farber-AIOS/pathml), [VAEs](https://github.com/BeeGass/Readable-VAEs), [Agents](https://github.com/BeeGass/Agents)
+- 🔭 I’m currently working on [PathML](https://github.com/Dana-Farber-AIOS/pathml), [VAEs](https://github.com/BeeGass/Readable-VAEs), and [Agents](https://github.com/BeeGass/Agents)
 
 - 🌱 I’m broadly interested in applied problems that make use of machine learning. However recently, my interests along with my research have included:
   -  Using generative models and computer vision for cancer detection
