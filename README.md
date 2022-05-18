@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bryan</h1>
+<h1 align="left"> <img src="https://github.com/BeeGass/BeeGass/blob/main/header.png" alt="bryan" /> </h1>
 <h3 align="center">Graduate student at Worcester Polytechnic Institute.</h3>
 <h3 align="center">Machine learning intern at Dana-Farber Cancer Institute.</h3>
 
