@@ -1,5 +1,4 @@
 <h1 align="left"> <img src="https://github.com/BeeGass/BeeGass/blob/main/header.png" alt="bryan" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beegass&label=Profile%20views&color=0e75b6&style=flat" alt="beegass" /> </p>
 <h3 align="center">Graduate student at Worcester Polytechnic Institute.</h3>
 <h3 align="center">Machine learning intern at Dana-Farber Cancer Institute.</h3>
 
