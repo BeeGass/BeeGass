@@ -1,5 +1,7 @@
 <h1 align="left"> <img src="https://github.com/BeeGass/BeeGass/blob/main/header.png" alt="bryan" /> </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&color=858585&vCenter=true&lines=Graduate+student+at+Worcester+Polytechnic+Institute.;Machine+learning+intern+at+Dana-Farber+Cancer+Institute.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&color=858585&lines=Graduate+student+at+Worcester+Polytechnic+Institute;Machine+learning+intern+at+Dana-Farber+Cancer+Institute)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on [PathML](https://github.com/Dana-Farber-AIOS/pathml), [VAEs](https://github.com/BeeGass/Readable-VAEs), and [Agents](https://github.com/BeeGass/Agents)
 
