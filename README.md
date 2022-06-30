@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on [PathML](https://github.com/Dana-Farber-AIOS/pathml), [VAEs](https://github.com/BeeGass/Readable-VAEs), and [Agents](https://github.com/BeeGass/Agents)
 
 - 🌱 I’m broadly interested in applied problems that make use of machine learning. However recently, my interests along with my research have included:
-  -  Using generative models and computer vision for cancer detection
-  -  Generative models and model-based reinforcement learning on planning tasks
-  -  Sequence modeling to aid in outlier detection
+  -  Computer vision tasks within high resolution gigapixel pathology images
+  -  Generative models and model-based reinforcement learning
+  -  Attention-free alternatives to sequence modeling 
 
 - 👯 I’m looking to collaborate on **research related to topics mentioned above**
 
