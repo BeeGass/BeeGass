@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&color=858585&lines=Graduate+student+at+Worcester+Polytechnic+Institute;Machine+learning+intern+at+Dana-Farber+Cancer+Institute)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [PathML](https://github.com/Dana-Farber-AIOS/pathml), [VAEs](https://github.com/BeeGass/Readable-VAEs), and [Agents](https://github.com/BeeGass/Agents)
+- 🔭 I’m currently working on [PathML](https://github.com/Dana-Farber-AIOS/pathml) and [HiPPO-Jax]([https://github.com/Dana-Farber-AIOS/pathml](https://github.com/Dana-Farber-AIOS/HiPPO-Jax)
 
 - 🌱 I’m broadly interested in applied problems that make use of machine learning. However recently, my interests along with my research have included:
   -  Computer vision tasks within high resolution gigapixel pathology images
@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **research related to topics mentioned above**
 
-- 🤝 I’m looking for help with [VAEs](https://github.com/BeeGass/Readable-VAEs)
+- 🤝 I’m looking for help with [HiPPO-Jax]([https://github.com/Dana-Farber-AIOS/pathml](https://github.com/Dana-Farber-AIOS/HiPPO-Jax)
 
-- 📝 I regularly write articles on [my website](https://beegass.dev/)
+- 📝 I regularly write articles on [my website](https://www.beegass.dev/)
 
 - 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol.**
 
