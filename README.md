@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&color=858585&lines=Graduate+student+at+Worcester+Polytechnic+Institute;Machine+learning+intern+at+Dana-Farber+Cancer+Institute)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [PathML](https://github.com/Dana-Farber-AIOS/pathml) and [HiPPO-Jax](https://github.com/Dana-Farber-AIOS/HiPPO-Jax)
+- 🔭 I’m currently working on [HiPPO-Jax](https://github.com/BeeGass/HiPPO-Jax)
 
-- 🌱 I’m broadly interested in applied problems that make use of machine learning. However recently, my interests along with my research have included:
-  -  Computer vision tasks within high resolution gigapixel pathology images
-  -  Generative models and model-based reinforcement learning
-  -  Attention-free alternatives to sequence modeling 
+- 🌱 My research and interests are centered around:
+  -  Attention-free sequence modeling methods
+  -  Enhancing and further addressing long-context dependency in language and video processing.
+  -  Optimizing these models utilizing Jax/Flax and CUDA frameworks.
 
 - 👯 I’m looking to collaborate on **research related to topics mentioned above**
 
-- 🤝 I’m looking for help with [HiPPO-Jax](https://github.com/Dana-Farber-AIOS/HiPPO-Jax)
+- 🤝 I’m looking for help with [HiPPO-Jax](https://github.com/BeeGass/HiPPO-Jax)
 
 - 📝 I regularly write articles on [my website](https://www.beegass.dev/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bagass@wpi.edu**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1PNzFPq1oBwWmxqs9Ei4a9Lo_GpgnB5kq/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1_JalgMc0EhvTazHtfwGp_YjDQ3iDGYGn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
