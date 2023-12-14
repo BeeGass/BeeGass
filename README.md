@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol.**
 
-- 📫 How to reach me **bagass@wpi.edu**
+- 📫 How to reach me **bryan@onlygass.dev**
 
 - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1NcvrpuO0psV8I6qZPRAAahOGOtaeZOGs/view?usp=sharing)
 
