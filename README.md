@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with [HiPPO-Jax](https://github.com/BeeGass/HiPPO-Jax)
 
-- 📝 I regularly write articles on [my website](https://www.beegass.dev/)
+- 📝 I regularly write articles on [my website](onlygass.dev)
 
 - 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol.**
 
 - 📫 How to reach me **bagass@wpi.edu**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1_JalgMc0EhvTazHtfwGp_YjDQ3iDGYGn/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1NcvrpuO0psV8I6qZPRAAahOGOtaeZOGs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
