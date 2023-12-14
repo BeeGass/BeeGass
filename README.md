@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [HiPPO-Jax](https://github.com/BeeGass/HiPPO-Jax)
 
-- 📝 I regularly write articles on [my website](www.onlygass.dev)
+- 📝 I regularly write articles on [my website](https://www.onlygass.dev/)
 
 - 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol.**
 
