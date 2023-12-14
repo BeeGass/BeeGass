@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [my website](https://www.onlygass.dev/)
 
-- 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer/futbol.**
+- 💬 Ask me about **ramen noodles, chalk, cafe racers, my current investment strategy, and soccer**
 
 - 📫 How to reach me **bryan@onlygass.dev**
 
